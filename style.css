@@ -1,0 +1,30 @@
+/* Styles go here */
+
+body{
+    font-family: sans-serif;
+    
+    font-size: 24px;
+    
+    background-color: #222;
+    
+    color: #ccc;
+  }
+  
+  .music-link {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  a {
+    color: #aaf;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+  }
+  
+  a:hover {
+    border-bottom: 2px solid;
+  }
+
+.timeSlider {
+    width: 100%;
+}
